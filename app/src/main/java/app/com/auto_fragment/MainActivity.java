@@ -17,8 +17,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
         /**
          * 进行动态布局中对Fragment的动态切换 添加响应的事务管理器和事务
          * */
